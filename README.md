@@ -13,7 +13,7 @@ I'm building a **news platform with ML capabilities** that lets you consume news
   - **Positivity Filter** - See only uplifting news when you need it
   - **Theme-Based Filtering** - Find articles matching your interests
 
-> **Links:** 🔗
+**Links:**
 
 - [🔗 Website](https://smart-news-frontend.vercel.app/)
 - [📂 Machine Learning Platform](https://github.com/Antoine-Prieur/smart-news-ml)
