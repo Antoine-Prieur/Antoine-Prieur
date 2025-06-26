@@ -28,3 +28,12 @@ Creating the **ML platform I'd actually want to work with** - where:
 - ✅ Production deployments are predictable
 - ✅ Rollbacks don't require emergency meetings
 - ✅ Monitoring tells you what you need to know
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoine-prieur-22458a170)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoine.prieur45@gmail.com)
+
+</div>
