@@ -17,8 +17,6 @@ I'm building a **news platform with ML capabilities** that lets you consume news
 
 - [🔗 Website](https://smart-news-frontend.vercel.app/)
 - [📂 Machine Learning Platform](https://github.com/Antoine-Prieur/smart-news-ml)
-- [📂 Crawler](https://github.com/Antoine-Prieur/smart-news-crawler)
-- [📂 Backend](https://github.com/Antoine-Prieur/smart-news-backend)
 
 ## 🎯 My Ultimate Goal
 
