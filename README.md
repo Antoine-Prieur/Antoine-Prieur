@@ -2,8 +2,6 @@
 
 I'm a **Machine Learning Engineer & ML Platform Architect** who loves to **actually deploy ML**. My passion lies in bridging the gap between ML research and production systems.
 
-> _"The best ML model is the one running reliably in production, not the one with the highest accuracy on your local machine."_
-
 ## 🔭 Current Project: Mood-Aware News Platform
 
 I'm building a **news platform with ML capabilities** that lets you consume news without killing your mood:
@@ -18,14 +16,14 @@ I'm building a **news platform with ML capabilities** that lets you consume news
 - [🔗 Website](https://smart-news-frontend.vercel.app/)
 - [📂 Machine Learning Platform](https://github.com/Antoine-Prieur/smart-news-ml)
 
-## 🎯 My Ultimate Goal
+## 🎯 My Objective
 
 Creating the **ML platform I'd actually want to work with** - where:
 
-- ✅ Adding new model versions is seamless
-- ✅ Production deployments are predictable
-- ✅ Rollbacks don't require emergency meetings
-- ✅ Monitoring tells you what you need to know
+- Adding new model versions is seamless
+- Production deployments are predictable
+- Rollbacks don't require emergency meetings
+- Monitoring tells you what you need to know
 
 ## 📫 Let's Connect!
 
